@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[You can access more about me here.](https://polisci.northwestern.edu/people/graduate-students/sarah-moore.html) 
