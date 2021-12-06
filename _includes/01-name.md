@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+#Sarah Moore
+
+## MA in Political Science, MS in Statistics in progress, PhD Candidate (ABD) in Comparative Politics. 
