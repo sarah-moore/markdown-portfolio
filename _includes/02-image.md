@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Sarah Moore, the owner of this site.](/Users/sarahmoore/Desktop/Moore-photo.JPG)
