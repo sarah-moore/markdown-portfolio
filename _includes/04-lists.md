@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. Conflict Research 
+2. Mixed-Methods
+3. Political Economy of Development 
+4. State Capacity
